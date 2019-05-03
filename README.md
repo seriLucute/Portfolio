@@ -1,5 +1,5 @@
 
-##리세리 Seri Lee
+## 리세리 Seri Lee
 <p align="center"><img src="image/profile.jpeg" width="300" alt="세리의 프로필이미지" ></p>
 
 </br>
@@ -29,5 +29,5 @@ G.A Marketing Intern in [Inflearn](https://www.inflearn.com/ "Inflearn")
 - 2016 March - jun 2017 
 Data Scientist Intern in [TeamLab](http://theteamlab.io// "TeamLab"), Gachon University
 
-###Project
+### Project
 ------
