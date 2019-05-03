@@ -14,6 +14,7 @@
 - E-mail. asdd565seri@gmail.com
 - blog. https://serr-mbms-95.tistory.com/
 - Portfolio. https://serilucute.github.io/Portfolio/ [^1]
+
 [^1]: 포트폴리오 사이트는 수정중입니다. 
 
 ### Skills
